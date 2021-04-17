@@ -21,3 +21,23 @@ Automated Waste Recognition System using Deep Learning, Classify objects as Dry,
 
 ## Tech Stack: 
 Python, Web Technologies, PHP, MySQL, GitHub
+
+## SetUp:
+
+#### 1. Download XAMPP :-
+https://www.apachefriends.org/download.html
+
+#### 2. Clone this repository :-
+git clone https://github.com/kumarkaushal920/SpotGarbage_GPP2.git
+
+#### 3. Extract the project files into htdocs :-
+C:\xampp\htdocs
+
+#### 4. Database Setup :-
+>Start the XAMPP server and MySQL database using XAMPP control panel
+
+>Type localhost in your favorite browser to open phpMyAdmin
+
+>Log in with credentials and go to MySQL tab
+
+>Create new database and import gpp.sql file
