@@ -1,5 +1,5 @@
 # GPP-APP
-
+##PPT Link -  https://docs.google.com/presentation/d/1f7T551IvpNGlfSfKx4UwppFGG0G87LOX5fNGhUVrPGs/edit?usp=sharing
 ## Abstract:
 
 Waste Management in Indian cities has emerged as a major concern over the past few years. The rise in urban population and economic growth in the absence of an effective management mechanism has manifested in the current state of solid waste management in Indian cities which is far from perfect. Given the present situation, the quantum of waste generated in cities, especially larger ones with the higher population is expected to increase. Greater attention needs to be paid towards devising appropriate and effective mechanisms for waste treatment and disposal in urban centers. And monitor the use of banned plastic.
